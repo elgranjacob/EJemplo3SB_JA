@@ -1,0 +1,7 @@
+frutas = ["Mango", "Manzana", "Banana", "Uvas"]
+print(frutas)
+
+#frutas.pop(0)  
+frutas.pop(3)  
+frutas.append("sandia")
+print(frutas)
